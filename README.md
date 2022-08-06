@@ -11,6 +11,7 @@ Bachelor's of Information Technologies (Computer Science), and I intend to take 
 ![](https://img.shields.io/badge/Languages-HTML-red)
 ![](https://img.shields.io/badge/Languages-JS-red)
 ![](https://img.shields.io/badge/Languages-CSS-red)
+![](https://img.shields.io/badge/Languages-PHP-red)
 ![](https://img.shields.io/badge/Languages-SQL-red)  
 
 ![](https://img.shields.io/badge/Tools-MySQL-orange)
