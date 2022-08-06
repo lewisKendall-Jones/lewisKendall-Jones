@@ -12,6 +12,7 @@ Bachelor's of Information Technologies (Computer Science), and I intend to take 
 ![](https://img.shields.io/badge/Languages-SQL-red)
 ![](https://img.shields.io/badge/Tools-MySQL-red)
 ![](https://img.shields.io/badge/Tools-Swing-orange)
+![](https://img.shields.io/badge/Tools-Maven-orange)
 # Contact Me
 <a href="https://www.linkedin.com/in/lewiskendalljones/"><img align="left" src="https://github.com/lewisKendall-Jones/lewisKendall-Jones/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/lewis.kj"><img align="left" src="https://github.com/lewisKendall-Jones/lewisKendall-Jones/blob/main/images/instagram.svg" alt="icon | Instagram" width="21px"/></a>
