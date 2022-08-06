@@ -4,15 +4,16 @@ Bachelor's of Information Technologies (Computer Science), and I intend to take 
 # Tools & Technologies
 ![](https://img.shields.io/badge/Language-C-blue)
 ![](https://img.shields.io/badge/Languages-C++-blue)
-![](https://img.shields.io/badge/Languages-Python-green)
-![](https://img.shields.io/badge/Languages-Java-orange)  
+![](https://img.shields.io/badge/Languages-Java-blue)
+![](https://img.shields.io/badge/Languages-Haskell-blue)
+![](https://img.shields.io/badge/Languages-Python-green)  
 
 ![](https://img.shields.io/badge/Languages-HTML-red)
 ![](https://img.shields.io/badge/Languages-JS-red)
 ![](https://img.shields.io/badge/Languages-CSS-red)
 ![](https://img.shields.io/badge/Languages-SQL-red)  
 
-![](https://img.shields.io/badge/Tools-MySQL-red)
+![](https://img.shields.io/badge/Tools-MySQL-orange)
 ![](https://img.shields.io/badge/Tools-Swing-orange)
 ![](https://img.shields.io/badge/Tools-Maven-orange)
 # Contact Me
