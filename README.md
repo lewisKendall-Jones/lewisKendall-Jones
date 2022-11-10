@@ -3,6 +3,7 @@ My name is Lewis Kendall-Jones. I am from Auckland, New Zealand. I am currently 
 Bachelor's of Information Technologies (Computer Science). My main interests lie within software engineering, networks, and security.
 # Tools & Technologies
 ![](https://img.shields.io/badge/Language-C-blue)
+![](https://img.shields.io/badge/Languages-C#-blue)
 ![](https://img.shields.io/badge/Languages-C++-blue)
 ![](https://img.shields.io/badge/Languages-Java-blue)
 ![](https://img.shields.io/badge/Languages-Rust-blue)
