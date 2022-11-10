@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
-My name is Lewis Kendall-Jones. I am from Auckland, New Zealand. I am currently in my second year of studying for a 
-Bachelor's of Information Technologies (Computer Science), and I intend to take on a Software Engineer role once graduated.
+My name is Lewis Kendall-Jones. I am from Auckland, New Zealand. I am currently in my final year of studying for a 
+Bachelor's of Information Technologies (Computer Science). My main interests lie within software engineering, networks, and security.
 # Tools & Technologies
 ![](https://img.shields.io/badge/Language-C-blue)
 ![](https://img.shields.io/badge/Languages-C++-blue)
