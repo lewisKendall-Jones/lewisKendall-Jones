@@ -31,9 +31,6 @@ Bachelor's of Information Technologies (Computer Science). My main interests lie
 Readme is pretty barebones at the moment. Will update in the future.
 
 Topics to add:
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - Project list
 - Github stats when more projects and pulls are completed
 --->
