@@ -17,9 +17,10 @@ Bachelor's of Information Technologies (Computer Science). My main interests lie
 ![](https://img.shields.io/badge/Languages-SQL-red)  
 
 ![](https://img.shields.io/badge/Tools-MySQL-orange)
-![](https://img.shields.io/badge/Tools-Bootstrap-orange)
-![](https://img.shields.io/badge/Tools-Swing-orange)
 ![](https://img.shields.io/badge/Tools-ASP.net(MVC)-orange)
+![](https://img.shields.io/badge/Tools-Bootstrap-orange)
+![](https://img.shields.io/badge/Tools-React-orange)
+![](https://img.shields.io/badge/Tools-Swing-orange)
 ![](https://img.shields.io/badge/Tools-Maven-orange)
 # Contact Me
 <a href="https://www.linkedin.com/in/lewiskendalljones/"><img align="left" src="https://github.com/lewisKendall-Jones/lewisKendall-Jones/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
