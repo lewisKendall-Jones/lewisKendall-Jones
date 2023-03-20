@@ -25,13 +25,3 @@ Bachelor's of Information Technologies (Computer Science). My main interests lie
 # Contact Me
 <a href="https://www.linkedin.com/in/lewiskendalljones/"><img align="left" src="https://github.com/lewisKendall-Jones/lewisKendall-Jones/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/lewis.kj"><img align="left" src="https://github.com/lewisKendall-Jones/lewisKendall-Jones/blob/main/images/instagram.svg" alt="icon | Instagram" width="21px"/></a>
-
-
-
-<!---
-Readme is pretty barebones at the moment. Will update in the future.
-
-Topics to add:
-- Project list
-- Github stats when more projects and pulls are completed
---->
