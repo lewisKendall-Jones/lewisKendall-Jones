@@ -22,5 +22,5 @@ My name is Lewis Kendall-Jones. I am from Auckland, New Zealand, and I am a rece
 ![](https://img.shields.io/badge/Tools-Swing-orange)
 ![](https://img.shields.io/badge/Tools-Maven-orange)
 # Contact Me
+<a href="mailto:lewiskendalljones@gmail.com">lewiskendalljones@gmail.com</a>
 <a href="https://www.linkedin.com/in/lewiskendalljones/"><img align="left" src="https://github.com/lewisKendall-Jones/lewisKendall-Jones/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/lewis.kj"><img align="left" src="https://github.com/lewisKendall-Jones/lewisKendall-Jones/blob/main/images/instagram.svg" alt="icon | Instagram" width="21px"/></a>
